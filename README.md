@@ -11,6 +11,7 @@ I am a Diploma holder in Computer Engineering, passionate about data analytics, 
 👩‍💻 About Me
 
 I am a motivated and detail-oriented learner with a strong interest in data analytics, data visualization, and business insights. With a background in computer engineering and hands-on learning in Python, SQL, Excel, Power BI, and Tableau, I am eager to contribute to meaningful projects and grow in the data field.
+
 🛠️ Skills
 
 🐍 Python
@@ -33,6 +34,7 @@ I am a motivated and detail-oriented learner with a strong interest in data anal
 
 💡 Data Analysis
 
+
 📚 Currently Learning
 
 Advanced Python – OOP, file handling, exception handling, etc.
@@ -45,6 +47,7 @@ Tableau – Dashboards & data storytelling
 
 Machine Learning – KNN, hyperparameter tuning
 
+
 🚀 Featured Projects
 
 🤖 Chatbot Application for Study Materials
@@ -53,11 +56,13 @@ A smart chatbot application designed to help students access study resources.
 
 Technologies: Python | Chatbot | Data Analytics
 
+
 📊 Power BI – Online Retail Dashboard
 
 Analysis and visualization of e-commerce data using KPIs, charts, and slicers.
 
 Technologies: Power BI | DAX | Data Visualization
+
 
 📈 Tableau – Company Purchasing Dataset
 
